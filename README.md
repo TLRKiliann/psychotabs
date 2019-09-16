@@ -1,4 +1,4 @@
-PSYCHOTABS
+# PSYCHOTABS
 
 # That's an application that can help health professionals, particularly in the psychiatric and neurological fields. 
 # The data contained in this application comes from the Compendium, but also from Lausanne doctors and some interesting sites.
