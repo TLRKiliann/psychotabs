@@ -4,11 +4,10 @@
 # The data contained in this application comes from the Compendium, but also from Lausanne doctors and some interesting sites.
 # This app highlights interactions, side effects and many other things as well.
 
-# This is my first app I made with python3-tkinter
+# This is my first app I made with python3-tkinter ;)
 
 # Have fun!
 
 # Koalatree
 
-To use this app, you have to leave all the files in the same folder and run : 
-./psychotabs.py
+
