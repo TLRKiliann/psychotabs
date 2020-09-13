@@ -13,7 +13,7 @@ I decline any responsibility in case of use of this application for a patient. T
 
 This is my first app I made with python3-tkinter ;)
 
-For launching this app use :
+For launching this app, uses the following command :
 > python3 psychotabs.py
 
 Hoping to be useful !
